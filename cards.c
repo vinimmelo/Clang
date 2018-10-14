@@ -1,7 +1,7 @@
 /*
  * Program to evaluate face values.
- * Released under the Vegas Public License.
- * (c)2014 The College Blackjack Team.
+ * Card Counter
+ * Exercise done by studying the book Head First C, by O'Reilly.
  */
 #include <stdio.h>
 #include <stdlib.h>
