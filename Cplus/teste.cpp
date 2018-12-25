@@ -9,9 +9,9 @@ int main()
         {
             cout << "#";
         }
-//          for(int i = 4; i > 4 - abs(4-j); i--){
-//              cout << " ";
-//          }
+         for(int i = 4; i > 4 - abs(4-j); i--){
+             cout << " ";
+         }
           cout << "\n";
       }
 
