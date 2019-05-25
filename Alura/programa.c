@@ -7,4 +7,10 @@ int main() {
 
   int numero_secreto = 42;
 
+  int chute;
+
+  printf("Qual é o seu chute: ");
+  scanf("%d", &chute);
+  printf("O seu número foi %d\n", chute);
+
 }
